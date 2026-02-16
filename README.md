@@ -1,3 +1,5 @@
+# ItemsAPI
+
 ## How to run the application - Using IDE:
 
     1)Install Java JDK 17+,Maven,IntelliJ IDEA
